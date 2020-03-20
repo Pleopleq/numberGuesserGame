@@ -1,0 +1,11 @@
+/home/pleq/Documents/csharpprojects/bin/Debug/netcoreapp3.1/csharpprojects
+/home/pleq/Documents/csharpprojects/bin/Debug/netcoreapp3.1/csharpprojects.deps.json
+/home/pleq/Documents/csharpprojects/bin/Debug/netcoreapp3.1/csharpprojects.runtimeconfig.json
+/home/pleq/Documents/csharpprojects/bin/Debug/netcoreapp3.1/csharpprojects.runtimeconfig.dev.json
+/home/pleq/Documents/csharpprojects/bin/Debug/netcoreapp3.1/csharpprojects.dll
+/home/pleq/Documents/csharpprojects/bin/Debug/netcoreapp3.1/csharpprojects.pdb
+/home/pleq/Documents/csharpprojects/obj/Debug/netcoreapp3.1/csharpprojects.csprojAssemblyReference.cache
+/home/pleq/Documents/csharpprojects/obj/Debug/netcoreapp3.1/csharpprojects.AssemblyInfoInputs.cache
+/home/pleq/Documents/csharpprojects/obj/Debug/netcoreapp3.1/csharpprojects.AssemblyInfo.cs
+/home/pleq/Documents/csharpprojects/obj/Debug/netcoreapp3.1/csharpprojects.dll
+/home/pleq/Documents/csharpprojects/obj/Debug/netcoreapp3.1/csharpprojects.pdb
